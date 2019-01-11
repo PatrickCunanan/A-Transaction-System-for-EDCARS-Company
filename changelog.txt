@@ -1,0 +1,15 @@
+Changelog:
+Admin Panel:
+1. added table borders and style to pdf printout
+User Website:
+1. changed "Specify the time and date of the transaction" to "Set an appointment/meet-up schedule with the company" on buycarlnding.jsp
+2.added "Enter the CAPTCHA code below:" on captcha codes on buycarlanding.jsp and interestedseller.jsp
+3.added restriction of only .jpg, .jpeg, and .png files only for picture of car
+4.changed car specifications to getting the scanned or/cr or the car.(reason: or/cr contains the specifications of the car.)
+4.1 added a new Part parameter on the servlet and factory sending the interested seller email.
+5.added disclaimer that the site is a school project.
+
+hehe di ko na alam yung iba.
+unfinished:
+yung checkbox tas update
+idk kung papainput pa natin yung car specs pero ikaw dagdag mo na lang kung gusto mo
